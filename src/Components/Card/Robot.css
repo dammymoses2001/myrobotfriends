@@ -1,0 +1,10 @@
+.back{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    padding-right: 1em;
+    font-size: 1rem;
+    font-family: Cambria,4Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    
+}
